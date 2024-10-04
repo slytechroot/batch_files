@@ -1,0 +1,1 @@
+runas /user:%username%admin mmc.exe
